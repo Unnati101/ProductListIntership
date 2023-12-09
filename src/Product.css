@@ -1,0 +1,17 @@
+.product-container {
+  border: 1px solid blue;
+  margin: 10px;
+  padding: 10px;
+}
+
+.product-header {
+  cursor: pointer;
+  background-color: grey;
+  padding: 5px;
+}
+
+.product-details {
+  margin-top: 10px;
+  padding: 10px;
+  border-top: 1px solid blue;
+}
